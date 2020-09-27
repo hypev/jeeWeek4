@@ -1,0 +1,275 @@
+body.bg-large * {
+    font-size: 110% !important;
+}
+
+body.bg-small * {
+    font-size: 95% !important;
+}
+
+.bg-default, .bg-large, .bg-small, .bg-light, .bg-monochromeInverse {
+    background-color: #fff !important;
+}
+
+.bg-dark {
+    background-color: #333 !important;
+}
+
+.bg-monochrome {
+    background-color: #000 !important;
+}
+
+.bg-facebook {
+    background-color: #3b5998 !important;
+}
+
+.bg-instagram {
+    background-color: #e1306c !important;
+}
+
+
+.bt-default,
+.bt-large,
+.bt-small {
+    border-color: #17a2b8 !important;
+    color: #fff !important;
+    background-color: #17a2b8 !important;
+}
+
+.bt-light,
+.bt-monochromeInverse {
+    color: #000 !important;
+    background-color: transparent !important;
+}
+
+.bt-dark,
+.bt-monochrome,
+.bt-facebook,
+.bt-instagram {
+    color: #fff !important;
+    background-color: transparent !important;
+}
+
+.bt-default:hover,
+.bt-large:hover,
+.bt-small:hover {
+    color: #17a2b8 !important;
+    background-color: #fff !important;
+}
+
+.bt-light:hover {
+    background-color: rgba(0, 0, 0, 0.1) !important;
+}
+.bt-monochromeInverse:hover {
+    color: #fff !important;
+    background-color: #000000 !important;
+}
+
+.bt-dark:hover,
+.bt-facebook:hover,
+.bt-instagram:hover {
+    background-color: rgba(255, 255, 255, 0.1) !important;
+}
+
+.bt-monochrome:hover {
+    color: #000 !important;
+    background-color: #fff !important;
+}
+
+.txt-default,
+.txt-large,
+.txt-small,
+.txt-light,
+.txt-monochromeInverse {
+    color: #000 !important;
+}
+
+.txt-dark,
+.txt-monochrome,
+.txt-facebook,
+.txt-instagram {
+    color: #fff !important;
+}
+
+.dropdown-item.txt-default:hover,
+.dropdown-item.txt-large:hover,
+.dropdown-item.txt-small:hover,
+.dropdown-item.txt-light:hover {
+    color: #000 !important;
+    background-color: rgba(0, 0, 0, 0.1) !important;
+}
+
+.dropdown-item.txt-monochromeInverse:hover {
+    color: #fff !important;
+    background-color: #000 !important;
+}
+
+.dropdown-item.txt-dark:hover,
+.dropdown-item.txt-facebook:hover,
+.dropdown-item.txt-instagram:hover,
+.jumbo-facebook,
+.jumbo-dark {
+    color: #fff !important;
+    background-color: rgba(255, 255, 255, 0.1) !important;
+}
+
+.jumbo-instagram {
+    color: #fff !important;
+    background: radial-gradient(circle at -50% 100%, #fdf497 0%, #fdf497 5%, #fd5949 45%, #d6249f 60%,#285AEB 90%) !important;
+    box-shadow: rgba(17, 12, 46, 0.15) 0px 48px 100px 0px;
+}
+
+.dropdown-item.txt-monochrome:hover {
+    color: #000 !important;
+    background-color: #fff !important;
+}
+
+.jumbo-default,
+.jumbo-large, 
+.jumbo-small {
+    color: #fff !important;
+    background-color: #17a2b8 !important;
+}
+
+.jumbo-light {
+    color: #000 !important;
+    background-color: rgba(0, 0, 0, 0.1) !important;
+}
+
+.jumbo-monochromeInverse {
+    color: #000 !important;
+    background-color: #fff !important;
+    border: 2px solid #000 !important;
+}
+
+.jumbo-monochrome {
+    color: #fff !important;
+    background-color: #000 !important;
+    border: 2px solid #fff !important;
+}
+
+.crd-dark {
+    color: #fff !important;
+    background-color: #444 !important;
+}
+
+.link-dark {
+    color: #ff8a65 !important;
+}
+
+.link-dark:hover {
+    color: #ff5722 !important;
+}
+
+.txt-muted-dark {
+    color: #aaa !important;
+}
+
+.bdg-dark {
+    background-color: #ff5722 !important;
+}
+
+.bdg-dark:hover {
+    background-color: #e34e20 !important;
+}
+
+.crd-monochrome {
+    color: #fff !important;
+    background-color: #000 !important;
+    border: 2px solid #fff !important;
+}
+
+.link-monochrome {
+    color: #fff !important;
+}
+
+.txt-muted-monochrome {
+    color: #fff !important;
+}
+
+.bdg-monochrome {
+    background-color: #000 !important;
+    border: 1px solid #fff !important;
+    color: #fff !important;
+}
+
+.bdg-monochrome:hover {
+    background-color: #fff !important;
+    border: 1px solid #000 !important;
+    color: #000 !important;
+}
+
+.crd-monochromeInverse {
+    color: #000 !important;
+    background-color: #fff !important;
+    border: 2px solid #000 !important;
+}
+
+.link-monochromeInverse {
+    color: #000 !important;
+}
+
+.txt-muted-monochromeInverse {
+    color: #000 !important;
+}
+
+.bdg-monochromeInverse {
+    background-color: #fff !important;
+    border: 1px solid #000 !important;
+    color: #000 !important;
+}
+
+.bdg-monochromeInverse:hover {
+    background-color: #000 !important;
+    border: 1px solid #fff !important;
+    color: #fff !important;
+}
+
+.crd-facebook {
+    color: #fff !important;
+    background-color: rgba(255, 255, 255, 0.1) !important;
+}
+
+.link-facebook {
+    color: #dfe3ee !important;
+}
+
+.link-facebook:hover {
+    color: #fff !important;
+}
+
+.txt-muted-facebook {
+    color: #ddd !important;
+}
+
+.bdg-facebook {
+    background-color: #8da0ea !important;
+}
+
+.bdg-facebook:hover {
+    background-color: #6d7ab5 !important;
+}
+
+.crd-instagram {
+    color: #fff !important;
+    background-color: rgba(255, 255, 255, 0.2) !important;
+}
+
+.link-instagram {
+    color: #feda77 !important;
+}
+
+.link-instagram:hover {
+    color: #fff !important;
+}
+
+.txt-muted-instagram {
+    color: #ddd !important;
+}
+
+.bdg-instagram {
+    background-color: #FD5949 !important;
+}
+
+.bdg-instagram:hover {
+    background-color: #a73c33 !important;
+}
